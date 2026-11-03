@@ -21,10 +21,20 @@
 
 ## Wireshark SOC Labs (Extra Module)
 - **Lab 3:** Identified Attacker IP (192.168.10.66) and Port Scanning activity.
-- **Lab 4 & 5:** Followed TCP Streams to extract hidden payload data.
-- **Lab 6:** Captured cleartext HTTP POST credentials.
-- **Lab 7:** Isolated brute-force attack attempts.
-- **Lab 8:** Analyzed VoIP/RTP call stream to spot phone scammer.
 <img width="1080" height="1700" alt="Lab 3 Result - Saqib Ishaque (1)" src="https://github.com/user-attachments/assets/55298374-2a33-4c79-953e-9bb5e1cdddf6" />
+
+- **Lab 4 & 5:** Followed TCP Streams to extract hidden payload data.
+<img width="1080" height="1700" alt="Lab 4 Result - Saqib Ishaque" src="https://github.com/user-attachments/assets/52204934-09ea-4d3b-bd08-ff43a86ff2ad" />
+<img width="1080" height="1700" alt="Lab 5 Result - Saqib Ishaque" src="https://github.com/user-attachments/assets/eeefff25-4d63-45e7-b885-a147218839bc" />
+
+- **Lab 6:** Captured cleartext HTTP POST credentials.
+- <img width="1080" height="1700" alt="Lab 6 Result - Saqib Ishaque" src="https://github.com/user-attachments/assets/fbcb81a1-51ca-41c8-8540-129e774d717b" />
+
+
+- **Lab 7:** Isolated brute-force attack attempts.
+- <img width="1080" height="1700" alt="Lab 7 Result - Saqib Ishaque" src="https://github.com/user-attachments/assets/ce9beb4f-ddb7-447a-94d7-8fa9a4ccdbbc" />
+
+- **Lab 8:** Analyzed VoIP/RTP call stream to spot phone scammer.
+<img width="1080" height="1700" alt="Lab 8 Result - Saqib Ishaque" src="https://github.com/user-attachments/assets/2e8d1645-9440-4228-9932-f147b075fcb4" />
 
 
